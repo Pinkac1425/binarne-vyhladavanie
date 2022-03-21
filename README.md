@@ -1,0 +1,1 @@
+# binarne-vyhladavanie
